@@ -6,7 +6,7 @@ const navLinksItems = document.querySelectorAll('.nav-links a');
 const sections = document.querySelectorAll('section');
 const skillCards = document.querySelectorAll('.skill-card');
 const contactForm = document.querySelector('.contact-form');
-const scrollIndicator = document.querySelector('.scroll-indicator');
+const scrollIndicator =document.querySelector('.scroll-indicator');
 
 // Mobile Navigation
 hamburger.addEventListener('click', () => {
